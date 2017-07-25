@@ -1,0 +1,5 @@
+{
+  "name": "scrapper",
+  "description": "tayara.tn scraper",
+  "keywords": ["node", "express", "static"],
+}

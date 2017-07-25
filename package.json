@@ -1,0 +1,30 @@
+{
+  "name": "scraper",
+  "version": "1.0.1",
+  "description": "tayara.tn scraper",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "cors": "^2.8.4",
+    "express": "4.13.3",
+    "hibp": "^5.1.0",
+    "request": "*",
+    "scrape-it": "^3.3.2",
+    "url": "*",
+    "body-parser":"*"
+
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "UNLICENSED",
+  "author": "karimation"
+}
