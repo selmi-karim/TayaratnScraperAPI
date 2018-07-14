@@ -51,3 +51,12 @@ https://tayaratn.herokuapp.com/search
       }
     });
   ```
+
+
+# Author
+
+kerim selmi <a href="http://www.karimation.com">karimation</a>
+
+# License
+
+<a href="LICENSE">MIT License</a>
