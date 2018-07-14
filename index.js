@@ -9,9 +9,6 @@ var hibp = require('hibp');
 var scrapeIt = require("scrape-it");
 
 
-
-
-
 // configure body parser
 app.use(bodyParser.json());
 
@@ -93,8 +90,6 @@ scrapeIt(url, {
     result['mobilephone'] = response;
     Callback(result);
     });
-    //console.log('mobile: '+result['mobilephone']);
-
     
 });
 }
@@ -136,11 +131,7 @@ scrapeIt(url, {
             }  
         }    
       }
-     
- 
- 
- 
-   
+  
 }, (err, page) => {
     //console.log(err || page);
     result = page;
