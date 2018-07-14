@@ -25,6 +25,6 @@
     "heroku",
     "express"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "author": "karimation"
 }
