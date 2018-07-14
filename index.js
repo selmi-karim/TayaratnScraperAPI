@@ -129,16 +129,7 @@ scrapeIt(url, {
  
             // Get the title
           , title: "h2"
- /*
-            // Nested list
-          , tags: {
-                listItem: ".tags > span"
-            }
  
-            // Get the content
-          , content: {
-                selector: ".article-content"
-              , how: "html"*/
       , image: {
             selector: " img "
               , attr: "data-blazy"
