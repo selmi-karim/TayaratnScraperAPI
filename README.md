@@ -3,7 +3,7 @@ Tayara.Tn API
 The Tayara.tn API is a search API that returns Ads and their details. 
 You can define filters to narrow your search results with region,min and max price.
 Note: It can take up to a few minutes for an advanced search.
-This API is written in [JavaScript].
+This API is written in JS.
 
 
 
