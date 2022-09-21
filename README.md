@@ -55,7 +55,7 @@ https://tayaratn.herokuapp.com/search
 
 # Author
 
-kerim selmi <a href="http://www.karimation.com">karimation</a>
+kerim selmi
 
 # License
 
